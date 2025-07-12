@@ -1,16 +1,23 @@
 {
   "name": "GIGACHAD",
   "symbol": "GCH",
-  "description": "Le token officiel des GigaChads.",
-  "image": "https://c.top4top.io/p_3479o4lfi1.jpeg", 
+  "description": "Le token légendaire GIGACHAD visible sur Phantom.",
+  "image": "https://c.top4top.io/p_3479o4lfi1.jpeg",
+  "decimals": 2,
   "seller_fee_basis_points": 0,
   "properties": {
     "files": [
       {
         "uri": "https://c.top4top.io/p_3479o4lfi1.jpeg",
-        "type": "image/png"
+        "type": "image/jpeg"
       }
     ],
-    "category": "image"
+    "category": "image",
+    "creators": [
+      {
+        "address": "9jsigGVZn4E7iQJqhgsJinsgLiqe45JwNTFwFCT6VbfY",
+        "share": 100
+      }
+    ]
   }
 }
