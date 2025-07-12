@@ -1,0 +1,16 @@
+{
+  "name": "GIGACHAD",
+  "symbol": "GCH",
+  "description": "Le token officiel des GigaChads.",
+  "image": "https://c.top4top.io/p_3479o4lfi1.jpeg", 
+  "seller_fee_basis_points": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://c.top4top.io/p_3479o4lfi1.jpeg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
